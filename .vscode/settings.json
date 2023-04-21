@@ -1,0 +1,6 @@
+{
+  "files.eol": "auto",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "npm.packageManager": "npm"
+}
